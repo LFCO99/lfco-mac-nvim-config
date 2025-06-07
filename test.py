@@ -1,2 +1,5 @@
 print("Hello World")
 print("HELLLOOOO")
+print("Hola Como estas")
+print("Que hacer")
+print("Que me cuentas")
